@@ -1,2 +1,2 @@
 # Latihan-14
-Program memvalidasi pembagian tidak dengan nol
+Program memvalidasi bilangan tidak dengan nol
